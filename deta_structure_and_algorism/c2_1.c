@@ -145,8 +145,6 @@ int main() {
     
     display(stack, top);
     
-    printfpop
-    
     return EXIT_SUCCESS;
 }
 
